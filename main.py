@@ -1,0 +1,7 @@
+print('Hello, please provide the following information: ')
+print('')
+name = input('Your Name: ')
+age = input('You Age: ')
+job = input('You Job: ')
+print('')
+print('Hi, '+str(name)+' who works as a ' +str(job)+ ' and is '+str(age)+' years old ')
